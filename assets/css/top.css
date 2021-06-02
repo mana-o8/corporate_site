@@ -30,7 +30,7 @@
 .section-shop h2 {
   margin-bottom: 65px;
 }
-.section-shop__item-list{
+.section-shop__item-list ul{
   display: flex;
   flex-wrap: wrap;/*幅がないとき改行*/
   justify-content: center;/*真ん中*/
